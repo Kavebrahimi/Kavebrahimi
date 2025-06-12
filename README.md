@@ -35,8 +35,6 @@
 #### 🔐 Cyber Security
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=hackaday&logoColor=white)
-
 #### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
