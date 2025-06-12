@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm deFuncT 👾</h1>
+<h1 align="center">Hi there, I'm Kave 👾</h1>
 <p align="center">👨‍💻 Full-Stack Developer | 🛡 Learning Cybersecurity | 🎮 Gamer | 🧠 Highly Motivated & Goal-Oriented</p>
 
 ---
