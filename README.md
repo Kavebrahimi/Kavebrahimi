@@ -5,11 +5,11 @@
 
 ### 🔥 About Me
 
-- 🌐 Fully skilled in web development (Frontend & Backend)
-- 🔐 Currently learning Cyber Security to strengthen my technical knowledge
-- 🐍 Experienced with Python scripting and automation
-- 🎮 Passionate gamer during my free time
-- 🚀 My goal is to reach the top and I’m grinding hard every single day to get there!
+- 🌐 Full-stack web developer specialized in **Laravel, Vue.js, Inertia.js, TypeScript, Tailwind CSS, and MySQL**  
+- 🔐 Cybersecurity enthusiast, familiar with **Network+ and Security+ fundamentals**  
+- 🐍 Experienced in **Python scripting and backend automation**  
+- 🎮 Passionate gamer during my free time  
+- 🚀 Dedicated to continuous learning and building scalable, secure web applications  
 
 ---
 
@@ -19,14 +19,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge)
 
 #### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=fff&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 
 #### 🐍 Python
@@ -35,6 +34,8 @@
 #### 🔐 Cyber Security
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-007ACC?style=for-the-badge)
+![Security+](https://img.shields.io/badge/Security+-orange?style=for-the-badge)
+
 #### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
