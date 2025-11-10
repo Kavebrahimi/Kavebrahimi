@@ -1,6 +1,6 @@
 ### 🔥 About Me
 
-I am a **front-end ,back-end web developer** passionate about creating **dynamic, responsive, and secure web applications**. I specialize in **Laravel, Vue.js, Inertia.js, TypeScript, Tailwind CSS, and MySQL**, and I am continuously expanding my skills in **cybersecurity**.  
+I am a **front-end ,back-end web developer** passionate about creating **dynamic, responsive, and secure web applications**. I specialize in **Laravel, React, Inertia.js, TypeScript, Tailwind CSS, and MySQL**, and I am continuously expanding my skills in **cybersecurity**.  
 
 - 🌐 Fully skilled in **frontend and backend development**, building SPAs and optimizing application performance.  
 - 🔐 Enthusiastic about **cybersecurity**, familiar with **Network+ and Security+ fundamentals**, aiming to integrate secure practices into every project.  
