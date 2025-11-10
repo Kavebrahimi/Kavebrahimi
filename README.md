@@ -1,6 +1,6 @@
 ### 🔥 About Me
 
-I am a **front-end ,back-end web developer** passionate about creating **dynamic, responsive, and secure web applications**. I specialize in **Laravel, React, Inertia.js, TypeScript, Tailwind CSS, and MySQL**, and I am continuously expanding my skills in **cybersecurity**.  
+I am a **front-end ,back-end web developer** passionate about creating **dynamic, responsive, and secure web applications**. I specialize in **Laravel, React, TypeScript, Tailwind CSS, and MySQL**, and I am continuously expanding my skills in **cybersecurity**.  
 
 - 🌐 Fully skilled in **frontend and backend development**, building SPAs and optimizing application performance.  
 - 🔐 Enthusiastic about **cybersecurity**, familiar with **Network+ and Security+ fundamentals**, aiming to integrate secure practices into every project.  
@@ -18,7 +18,7 @@ Skilled in crafting **responsive and interactive user interfaces**, with attenti
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge)
+
 
 #### 🔧 Backend
 Passionate about **building robust backend systems** with Laravel and MySQL, integrating databases, APIs, and secure logic for seamless functionality.  
